@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59098a8d-ce65-4c66-8dd5-340658b87e6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Unet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clahe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coalescence_face.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coke_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/coke_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doubleThreshold.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myDoubleColumn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myMainWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mySingleColumn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res_rc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singlecanvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_wxl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/Code/ui_process.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="aa0bc931-ee50-4c7a-8b09-b0a490e856c8" />
+  <component name="ProjectId" id="1uwikHoMaGaxp1ifShA8ygiAQVx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CokeAnalyst-master" />
+      <recent name="E:\CokeAnalyst-master\Code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.coke_system">
+    <configuration name="coke_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CokeAnalyst-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coke_system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ui_MainWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CokeAnalyst-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui_MainWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coke_system" />
+        <item itemvalue="Python.ui_MainWindow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59098a8d-ce65-4c66-8dd5-340658b87e6a" name="Default Changelist" comment="" />
+      <created>1625583193985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625583193985</updated>
+      <workItem from="1625583195088" duration="2184000" />
+      <workItem from="1625586094545" duration="14000" />
+      <workItem from="1625586110173" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="295" key="FileChooserDialogImpl" timestamp="1625586106003">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="709" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1625586106003" />
+    <state x="576" y="324" width="512" height="318" key="Github.ShareDialog" timestamp="1625583289101">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="576" y="324" width="512" height="318" key="Github.ShareDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1625583289101" />
+    <state x="741" y="238" key="Github.UntrackedFilesDialog" timestamp="1625583314156">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="741" y="238" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1625583314156" />
+    <state width="1815" height="280" key="GridCell.Tab.0.bottom" timestamp="1625586041249">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="280" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041249" />
+    <state width="1815" height="280" key="GridCell.Tab.0.center" timestamp="1625586041249">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="280" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041249" />
+    <state width="1815" height="280" key="GridCell.Tab.0.left" timestamp="1625586041249">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="280" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041249" />
+    <state width="1815" height="280" key="GridCell.Tab.0.right" timestamp="1625586041249">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="280" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041249" />
+    <state width="1815" height="354" key="GridCell.Tab.1.bottom" timestamp="1625586041246">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="354" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041246" />
+    <state width="1815" height="354" key="GridCell.Tab.1.center" timestamp="1625586041246">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="354" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041246" />
+    <state width="1815" height="354" key="GridCell.Tab.1.left" timestamp="1625586041246">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="354" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041246" />
+    <state width="1815" height="354" key="GridCell.Tab.1.right" timestamp="1625586041246">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="354" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1625586041246" />
+    <state x="430" y="184" key="SettingsEditor" timestamp="1625586141767">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1625586141767" />
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2" timestamp="1625584617951">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="521" y="273" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1625584617951" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CokeAnalyst_master$coke_system.coverage" NAME="coke_system Coverage Results" MODIFIED="1625585986430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CokeAnalyst_master$ui_MainWindow.coverage" NAME="ui_MainWindow Coverage Results" MODIFIED="1625585982195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
